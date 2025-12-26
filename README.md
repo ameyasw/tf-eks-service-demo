@@ -119,7 +119,7 @@ terraform destroy
 
 ---
 
-## Design Decisions (Brief)
+## Design Decisions
 
 For this exercise, I used well‑established community Terraform modules for VPC and EKS to avoid re‑implementing commodity infrastructure and to focus on clean module composition and end‑to‑end deployment.
 
